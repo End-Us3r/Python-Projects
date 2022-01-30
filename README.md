@@ -1,2 +1,2 @@
 # CTI-110
-Python/HTML Programming 
+Python / HTML Programming 
